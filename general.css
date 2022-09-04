@@ -10,3 +10,6 @@ body{
 span{
     color: crimson;
 }
+html{
+    scroll-behavior:smooth;
+}
